@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate 
 - 📫 no
 - ⚡ Fun fact: first time i see programming
+  
 
 <!---
 carolineszo/carolineszo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
